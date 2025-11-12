@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Architectural Image Captioning
 
 An AI-powered system that generates descriptive captions for architectural images using deep learning techniques.
@@ -64,3 +65,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 [Your Name] - [Your Email]
 Project Link: [https://github.com/YOUR-USERNAME/architectural-image-captioning](https://github.com/YOUR-USERNAME/architectural-image-captioning)
+=======
+# architectural-image-captioning
+>>>>>>> 3d037ee6a490f10f771a09c79029b944e46e864b
